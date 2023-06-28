@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zacstone0
+- 👋 Hi, I’m @zacstone0 aka kirby
 - 👀 I’m interested in cryptocurrency and AI
 - 🌱 I’m currently learning rust
 - 💞️ I’m looking to collaborate on some cool project which I still have to find
